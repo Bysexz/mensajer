@@ -1,0 +1,2 @@
+{"level":"error","message":"Error de conexión a MongoDB: querySrv ECONNREFUSED _mongodb._tcp.your_cluster.mongodb.net","service":"voxy-server","timestamp":"2026-06-26 13:11:15"}
+{"level":"error","message":"Error de conexión a MongoDB: querySrv ECONNREFUSED _mongodb._tcp.your_cluster.mongodb.net","service":"voxy-server","timestamp":"2026-06-26 13:12:03"}
